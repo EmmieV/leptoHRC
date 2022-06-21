@@ -1,7 +1,7 @@
 ######## descriptive analysis 
 ######## Follow-up data HRC lepto
 ######## Emilie Vallee
-######## last code update 2021-12-01
+######## last code update 2022-06-21
 library (lubridate)
 #today()
 
